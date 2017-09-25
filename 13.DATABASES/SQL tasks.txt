@@ -1,0 +1,19 @@
+1. Select all in Addreses
+2. Select all Towns
+3. Select top 10 address
+3. Select Name and Description of Projects 
+4. Select First name, Middle name, Last name and Salary of Employees
+5. Select FirstName, MiddleName, LastName and Salary of Employees WHERE [MiddleName] is not NULL
+6. Configure the statement above to get only the employees with a salary more than 25000
+7. Select the projectid, name and end date of Projects which have an end date different from NULL and Name that starts with "HL"
+8. Select everything from Projects that has an end date different from null, project id greater than 2, project id less than 20 and year of start date greater than 2001
+9. Select the count of project Ids in each group of start dates. Display the count and the Start Date
+10. Modify the query above to include only the groups that have more than 5 projects in it 
+11. Order the EmployeesProjects by project id in ascending order
+12. Modify the query above to order them by descending order 
+13. Modify the query above to add aliases to the columns 
+14. Insert plovdiv in the towns 
+15. Add a new address to the town inserted above 
+16. Update the name of the street above 
+17. Delete the last added address
+18. Make 3 of the above statements in a stored procedure
